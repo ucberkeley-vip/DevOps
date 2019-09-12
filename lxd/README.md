@@ -1,10 +1,6 @@
 ---
 title: Creating Shared GPU Server Based On LXD Containers
 date: 2019-09-08T23:12:59.000Z
-tags: AI
-categories:
-  - Machine Learning
-  - DevOps
 ---
 ## Preface
 ___
